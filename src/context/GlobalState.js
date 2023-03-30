@@ -19,15 +19,36 @@ const contents = {
     "Started exposure to the first programming language at the age of 17, constantly trying and learning to improve myself.",
 };
 const information = {
-  phone: "0986921104",
-  zalo: "https://bit.ly/zalonguyenduong",
-  email: "duongcoilc2004@gmail.com",
-  facebook: "https://facebook.com/duongnguyen321",
-  github: "https://github.com/duongnguyen321",
+  phone: {
+    link: "tel:0986921104",
+    title: "0986921104",
+    icon: "bi-telephone"
+  },
+  zalo: {
+    link: "https://zalo.me/0986921104",
+    title: "Nguyễn Dương",
+    icon: "bi-telephone"
+  },
+  email: {
+    link: "mailto:duongcoilc2004@gmail.com",
+    title: "duongcoilc2004@gmail.com",
+    icon: "bi-envelope"
+
+  },
+  facebook: {
+    link: "https://facebook.com/duongnguyen321",
+    title: "Nguyễn Dương",
+    icon: "bi-facebook"
+  },
+  github: {
+    link: "https://github.com/duongnguyen321",
+    title: "duongnguyen321",
+    icon: "bi-github"
+  },
 };
 const education = {
   2016: {
-    year: 2016,
+    year: "2016",
     title: "FPT Junior high school",
     body: "Trường Trung học Cơ sở FPT",
   },
@@ -77,12 +98,19 @@ const projects = {
     code: "https://github.com/duongnguyen321/projects/tree/main/stravel-in%20React",
     more: "Website sử dụng React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API...",
   },
-  ocopGreen: {
-    name: "ocopGreen-react",
-    link: "https://ocop-green.vercel.app/",
-    time: "Project làm trong 2 tháng",
-    code: "https://github.com/duongnguyen321/ocop-green",
-    more: "Website sử dụng React, React-router-dom, Hydrogen, Restful API...",
+  chatGPT: {
+    name: "Chat-lgbt clone from chatGPT",
+    link: "https://chat-lgpt.vercel.app/",
+    time: "Project làm trong 3 tuần",
+    code: "https://github.com/duongnguyen321/projects/tree/main/chat-lgpt",
+    more: "Website sử dụng React,Context, Restful API....",
+  },
+  jsvip: {
+    name: "Jsvjp library for vanila javascript",
+    link: "https://www.npmjs.com/package/jsvjp",
+    time: "Project làm trong 2 tuần",
+    code: "https://github.com/duongnguyen321/jsvjp",
+    more: "Thư viện sử dụng Js.",
   },
   other_projects: "https://github.com/duongnguyen321/projects"
 };

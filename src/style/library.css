@@ -1,3 +1,6 @@
+.capitalize{
+  text-transform:capitalize ;
+}
 .name {
   font-family: var(--title-font-family);
   font-style: var(--font-style);
