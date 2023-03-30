@@ -22,28 +22,27 @@ const information = {
   phone: {
     link: "tel:0986921104",
     title: "0986921104",
-    icon: "bi-telephone"
+    icon: "bi-telephone",
   },
   zalo: {
     link: "https://zalo.me/0986921104",
     title: "Nguyễn Dương",
-    icon: "bi-telephone"
+    icon: "bi-telephone",
   },
   email: {
     link: "mailto:duongcoilc2004@gmail.com",
     title: "duongcoilc2004@gmail.com",
-    icon: "bi-envelope"
-
+    icon: "bi-envelope",
   },
   facebook: {
     link: "https://facebook.com/duongnguyen321",
     title: "Nguyễn Dương",
-    icon: "bi-facebook"
+    icon: "bi-facebook",
   },
   github: {
     link: "https://github.com/duongnguyen321",
     title: "duongnguyen321",
-    icon: "bi-github"
+    icon: "bi-github",
   },
 };
 const education = {
@@ -83,27 +82,20 @@ const skills = {
     "Relatively good research and search skills. Working thinking, good teamwork skills compared to age.",
 };
 const projects = {
-  stravel_html: {
-    name: "Stravel-html",
-    link: "https://stravelhtml.vercel.app/",
-    time: "Project làm trong 2 tháng",
-    code: "https://github.com/duongnguyen321/projects/tree/main/STravel-in%20HTML",
-    more: "Website sử dụng HTML5,CSS3,JavaScript,font-awesome,bootstrap-icons,swiper...",
-  },
   stravel: {
     name: "Stravel-react",
     link: "https://stravel.vercel.app/",
     time: "Project làm trong 3 tháng",
-    api: "https://github.com/duongnguyen321/api/tree/main/apistravel",
-    code: "https://github.com/duongnguyen321/projects/tree/main/stravel-in%20React",
-    more: "Website sử dụng React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API...",
+    api: "https://github.com/duongnguyen321/apistravel",
+    code: "https://github.com/duongnguyen321/stravel",
+    more: "Website sử dụng React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API... - Project đầu tiên",
   },
-  chatGPT: {
-    name: "Chat-lgbt clone from chatGPT",
-    link: "https://chat-lgpt.vercel.app/",
-    time: "Project làm trong 3 tuần",
-    code: "https://github.com/duongnguyen321/projects/tree/main/chat-lgpt",
-    more: "Website sử dụng React,Context, Restful API....",
+  stravel_html: {
+    name: "Stravel-html",
+    link: "https://stravelhtml.vercel.app/",
+    time: "Project làm trong 2 tháng",
+    code: "https://github.com/duongnguyen321/stravelhtml",
+    more: "Website sử dụng HTML5,CSS3,JavaScript,font-awesome,bootstrap-icons,swiper...",
   },
   jsvip: {
     name: "Jsvjp library for vanila javascript",
@@ -112,7 +104,28 @@ const projects = {
     code: "https://github.com/duongnguyen321/jsvjp",
     more: "Thư viện sử dụng Js.",
   },
-  other_projects: "https://github.com/duongnguyen321/projects"
+  cvjp: {
+    name: "C library for basic C",
+    link: "https://github.com/duongnguyen321/cvjp",
+    time: "Project làm trong 2 tuần",
+    code: "https://github.com/duongnguyen321/cvjp",
+    more: "Thư viện sử dụng C.",
+  },
+  allai: {
+    name: "AllAi",
+    link: "https://allai.vercel.app/",
+    time: "Project làm trong 1 tuần",
+    code: "https://github.com/duongnguyen321/allai",
+    more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một ứng dụng Chatbot, ImageBot",
+  },
+  closeai: {
+    name: "CloseAI",
+    link: "https://closeai-duongnguyen321.vercel.app/",
+    time: "Project làm trong 1 ngày",
+    code: "https://github.com/duongnguyen321/closeai",
+    more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một trang web hoàn thiện hơn của AllAi",
+  },
+  other_projects: "https://github.com/duongnguyen321",
 };
 const hobby = {
   music: "Nghe nhạc thư giãn, nhạc Đen Vâu,...",
