@@ -28,9 +28,10 @@ header .img_ava {
   width: 632px;
   height: 632px;
   left: 610px;
-top: 328px;
+  top: 328px;
   background-image: url(../assets/images/duonginblack.jpg);
- border-radius: 10px;
+  border-radius: 10px;
+  z-index: 1;
 }
 header .img_ava:hover {
   background-image: url(../assets/images/duong.jpg);
@@ -42,7 +43,6 @@ header .rectangle_1 {
   left: -363px;
   top: -540px;
   border-radius: 35px;
-
 }
 header .rectangle_2 {
   position: absolute;
@@ -114,20 +114,20 @@ header .ellipse_2 {
 @keyframes ellipse_1 {
   0% {
     left: 37px;
-  top: 335px;
-    z-index:-1;
+    top: 335px;
+    z-index: -1;
     opacity: 1;
   }
   50% {
     left: 1082px;
-  top: 305px;
-  z-index: -2;
-  opacity: 0.5;
+    top: 305px;
+    z-index: -2;
+    opacity: 0.5;
   }
   100% {
     left: 37px;
     top: 345px;
-    z-index:-1;
+    z-index: -1;
     opacity: 1;
   }
 }
@@ -135,19 +135,19 @@ header .ellipse_2 {
   0% {
     left: 1082px;
     top: 335px;
-  z-index: -2;
-  opacity: 0.5;
+    z-index: -2;
+    opacity: 0.5;
   }
   50% {
     left: 37px;
     top: 325px;
-    z-index:-1;
+    z-index: -1;
     opacity: 1;
   }
   100% {
     left: 1082px;
-  top: 365px;
-  z-index: -2;
-  opacity: 0.5;
+    top: 365px;
+    z-index: -2;
+    opacity: 0.5;
   }
 }
