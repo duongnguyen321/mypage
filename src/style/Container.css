@@ -1,7 +1,8 @@
 .container {
+  position: relative;
   width: 100%;
   max-width: 1440px;
-  height: auto;
+  height: 2208px;
   background-color: var(--background);
   color: var(--neutral-900);
   display: flex;
@@ -10,13 +11,17 @@
   align-items: center;
   justify-content: flex-start;
   overflow: hidden;
-  padding: 0 0 40px;
+  padding: 0;
   margin-left: 0;
   margin-right: 0;
   border-radius: 20px;
+  z-index: -1;
 }
 .container .col1 {
   width: 574px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .col1 .social_media {
   display: flex;
@@ -64,14 +69,16 @@
   position: absolute;
   width: 1112px;
   height: 1px;
-  left: 130px;
-  top: 1056px;
+  left: 120px;
+  top: 348px;
   color: var(--neutral-900);
   margin: 0;
 }
 .container .col2 {
   width: calc(100% - 574px);
-  padding-top: 400px;
+  position: absolute;
+  top: 400px;
+  right: 0;
 }
 .col2 .projects {
   display: flex;
@@ -94,7 +101,7 @@
   width: 633px;
   height: auto;
 }
-.col2 .hobby{
+.col2 .hobby {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -106,8 +113,8 @@
   left: 0px;
   top: 0px;
 }
-.hobby_title{
-  margin-top:40px;
+.hobby_title {
+  margin-top: 40px;
 }
 .hobby_item {
   display: flex;
