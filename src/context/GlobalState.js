@@ -77,7 +77,7 @@ const education = {
 };
 const skills = {
   web_devoloper:
-    "REST API, React JS, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop...",
+    "REST API, React JS, NodeJS Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop...",
   other_skills:
     "Relatively good research and search skills. Working thinking, good teamwork skills compared to age.",
 };
@@ -118,13 +118,14 @@ const projects = {
     code: "https://github.com/duongnguyen321/allai",
     more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một ứng dụng Chatbot, ImageBot",
   },
-  closeai: {
-    name: "CloseAI",
-    link: "https://closeai-duongnguyen321.vercel.app/",
-    time: "Project làm trong 1 ngày",
-    code: "https://github.com/duongnguyen321/closeai",
-    more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một trang web hoàn thiện hơn của AllAi",
+  apiallai: {
+    name: "API for AllAi",
+    link: "https://api-allai.herokuapp.com/",
+    time: "Project làm trong 3 ngày",
+    code: "https://github.com/duongnguyen321/api-allai",
+    more: "Website sử dụng NodeJS, JS, Json-server,... Để tạo ra một API cho ứng dụng AllAi với mục đích lưu trữ các câu hỏi và câu trả lời giúp cho các câu hỏi trùng lặp sẽ được trả lời ngay hoặc các câu trả lời và câu hỏi trước đó sẽ được liên kết với nhau",
   },
+
   other_projects: "https://github.com/duongnguyen321",
 };
 const hobby = {

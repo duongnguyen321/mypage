@@ -2,8 +2,8 @@
   position: relative;
   width: 100%;
   max-width: 1440px;
-  height: 2208px;
-  background-color: var(--background);
+  height: 2308px;
+  background-color: inherit;
   color: var(--neutral-900);
   display: flex;
   flex-direction: row;

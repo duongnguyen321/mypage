@@ -14,21 +14,19 @@ Complete the study program at any level with a graduation score of 7.43.
 
 ### `Skill`
 
-Web Developer: REST API, React JS, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop... \
+Web Developer: REST API, React JS, NodeJS, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop... \
 Other skills: Relatively good research and search skills. Working thinking, good teamwork skills compared to age.
 
 ### `Projects`
 
-See my project basic web [Stravel](https://stravelhtml.vercel.app/) \
-Took 2 months to complete \
-Code : [duongnguyen321/stravelhtml](https://github.com/duongnguyen321/projects/tree/main/STravel-in%20HTML) 
-- using html,css,js,some lib UI to make it beautyful.
-
-See my project React web [Stravel](https://stravel.vercel.app/) \
-Took 3 months to complete \
-API : [duongnguyen321/apistravel](https://github.com/duongnguyen321/api/tree/main/apistravel) \
-Code : [duongnguyen321/codestravel](https://github.com/duongnguyen321/projects/tree/main/stravel-in%20React) 
-- using React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API...
+See my first project basic web [Stravel](https://stravelhtml.vercel.app/) \
+  Took 2 months to complete 
+See my library project [Jsvjp](https://www.npmjs.com/package/jsvjp/) \
+  Took 2 week to complete 
+See my NodeJS project [AllAi](https://allai.vercel.app/) \
+  Took 1 week to complete 
+See my Backend NodeJS project [API for AllAi](https://api-allai.herokuapp.com/) \
+  Took 1 week to complete 
 
 ### `My Hobby`
 

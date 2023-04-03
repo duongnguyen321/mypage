@@ -19,6 +19,72 @@
   background: var(--primary-yellow);
 }
 
+.dark .container h1,
+.dark .container h5 {
+  color: var(--neutral-100);
+}
+.orange .container h1,
+.orange .container h5 {
+  color: var(--neutral-100) !important;
+}
+.green .container h1,
+.green .container h5 {
+  color: var(--neutral-100) !important;
+}
+.purple .container h1,
+.purple .container h5 {
+  color: var(--neutral-100) !important;
+}
+.orange .container p.body_16_medium.project_time,
+.orange .container p.body_18_medium.project_name,
+.orange .container p.body_14_regular.project_info,
+.orange .container p.body_14_regular,
+.orange .container span.body_14_regular {
+  color: var(--primary-green) !important;
+}
+.green .container p.body_16_medium.project_time,
+.green .container p.body_18_medium.project_name,
+.green .container p.body_14_regular.project_info,
+.green .container p.body_14_regular,
+.green .container span.body_14_regular {
+  color: var(--neutral-300) !important;
+}
+.purple .container p.body_16_medium.project_time,
+.purple .container p.body_18_medium.project_name,
+.purple .container p.body_14_regular.project_info,
+.purple .container p.body_14_regular,
+.purple .container span.body_14_regular {
+  color: var(--neutral-300) !important;
+}
+.orange .container a,
+.orange .container p.body_18_medium,
+.orange .container p.body_18_regular {
+  color: var(--primary-carrot);
+}
+.green .container a,
+.green .container p.body_18_medium,
+.green .container p.body_18_regular {
+  color: var(--primary-carrot);
+}
+.purple .container a,
+.purple .container p.body_18_medium,
+.purple .container p.body_18_regular {
+  color: var(--primary-yellow);
+}
+.dark .container a,
+.dark .container p.body_18_medium,
+.dark .container p.body_18_regular {
+  color: var(--primary-purple);
+}
+.dark .container p.body_18_medium.project_name {
+  color: var(--primary-orange);
+}
+.dark hr {
+  border: 1px solid var(--primary-orange);
+}
+.orange hr {
+  border: 1px solid var(--primary-green);
+}
 .dark .star {
   color: var(--primary-orange);
 }
@@ -39,10 +105,10 @@
   color: var(--primary-orange);
 }
 .orange .info_icon {
-  color: var(--primary-orange);
+  color: var(--primary-green);
 }
 .purple .info_icon {
-  color: var(--primary-purple);
+  color: var(--primary-yellow);
 }
 .light .info_icon {
   color: var(--primary-purple);
@@ -248,7 +314,7 @@
   color: var(--primary-orange);
 }
 .orange .submit_email:hover {
-  color: var(--primary-orange);
+  color: var(--primary-yellow);
 }
 .purple .submit_email:hover {
   color: var(--primary-purple);
@@ -264,16 +330,16 @@
   color: var(--primary-orange);
 }
 .orange a:hover {
-  color: var(--primary-orange);
+  color: var(--primary-yellow);
 }
 .purple a:hover {
-  color: var(--primary-purple);
+  color: var(--primary-carrot);
 }
 .light a:hover {
   color: var(--primary-purple);
 }
 .green a:hover {
-  color: var(--primary-carrot);
+  color: var(--primary-yellow);
 }
 
 .dark .btn:hover {
