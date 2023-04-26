@@ -118,6 +118,13 @@ const projects = {
     code: "https://github.com/duongnguyen321/allai",
     more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một ứng dụng Chatbot, ImageBot",
   },
+  telebot: {
+    name: "Telegram Bot",
+    link: "https://t.me/messimgbot",
+    time: "Project làm trong 1 tuần",
+    code: "https://github.com/duongnguyen321/allai-telegram",
+    more: "Bot Telegram sử dụng Nodejs, API của Openai và Api của AllAi. Để tạo ra một Chatbot, ImageBot trong Telegram",
+  },
   apiallai: {
     name: "API for AllAi",
     link: "https://api-allai.herokuapp.com/",
