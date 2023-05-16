@@ -90,33 +90,12 @@ const projects = {
     code: "https://github.com/duongnguyen321/stravel",
     more: "Website sử dụng React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API... - Project đầu tiên",
   },
-  stravel_html: {
-    name: "Stravel-html",
-    link: "https://stravelhtml.vercel.app/",
-    time: "Project làm trong 2 tháng",
-    code: "https://github.com/duongnguyen321/stravelhtml",
-    more: "Website sử dụng HTML5,CSS3,JavaScript,font-awesome,bootstrap-icons,swiper...",
-  },
-  jsvip: {
-    name: "Jsvjp library for vanila javascript",
-    link: "https://www.npmjs.com/package/jsvjp",
-    time: "Project làm trong 2 tuần",
-    code: "https://github.com/duongnguyen321/jsvjp",
-    more: "Thư viện sử dụng Js.",
-  },
-  cvjp: {
-    name: "C library for basic C",
-    link: "https://github.com/duongnguyen321/cvjp",
-    time: "Project làm trong 2 tuần",
-    code: "https://github.com/duongnguyen321/cvjp",
-    more: "Thư viện sử dụng C.",
-  },
-  allai: {
-    name: "AllAi",
-    link: "https://allai.vercel.app/",
+  api_hua: {
+    name: "API Huawei Shop",
+    link: "https://api-hua.herokuapp.com/",
     time: "Project làm trong 1 tuần",
-    code: "https://github.com/duongnguyen321/allai",
-    more: "Website sử dụng NodeJS, JS,..., API của Openai. Để tạo ra một ứng dụng Chatbot, ImageBot",
+    code: "https://github.com/duongnguyen321/api-hua",
+    more: "Website sử dụng Javascript, Node JS để tạo một server api cho dự án Huawei Shop",
   },
   telebot: {
     name: "Telegram Bot",
@@ -132,7 +111,6 @@ const projects = {
     code: "https://github.com/duongnguyen321/api-allai",
     more: "Website sử dụng NodeJS, JS, Json-server,... Để tạo ra một API cho ứng dụng AllAi với mục đích lưu trữ các câu hỏi và câu trả lời giúp cho các câu hỏi trùng lặp sẽ được trả lời ngay hoặc các câu trả lời và câu hỏi trước đó sẽ được liên kết với nhau",
   },
-
   other_projects: "https://github.com/duongnguyen321",
 };
 const hobby = {
