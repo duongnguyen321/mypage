@@ -93,7 +93,7 @@ const projects = {
   api_hua: {
     name: "API Huawei Shop",
     link: "https://api-hua.herokuapp.com/",
-    time: "Project làm trong 1 tuần",
+    time: "Project làm trong 5 ngày",
     code: "https://github.com/duongnguyen321/api-hua",
     more: "Website sử dụng Javascript, Node JS để tạo một server api cho dự án Huawei Shop",
   },
@@ -104,12 +104,12 @@ const projects = {
     code: "https://github.com/duongnguyen321/allai-telegram",
     more: "Bot Telegram sử dụng Nodejs, API của Openai và Api của AllAi. Để tạo ra một Chatbot, ImageBot trong Telegram",
   },
-  apiallai: {
-    name: "API for AllAi",
-    link: "https://api-allai.herokuapp.com/",
-    time: "Project làm trong 3 ngày",
-    code: "https://github.com/duongnguyen321/api-allai",
-    more: "Website sử dụng NodeJS, JS, Json-server,... Để tạo ra một API cho ứng dụng AllAi với mục đích lưu trữ các câu hỏi và câu trả lời giúp cho các câu hỏi trùng lặp sẽ được trả lời ngay hoặc các câu trả lời và câu hỏi trước đó sẽ được liên kết với nhau",
+  hua_shop: {
+    name: "Client Huawei Shop",
+    link: "https://huashop.vercel.app/",
+    time: "Project đang phát triển.",
+    code: "https://github.com/duongnguyen321/hua-shop",
+    more: "Đây là một dự án web bán hàng đơn giản, được phát triển bằng ReactJS. Mục đích của dự án này là giúp bạn có thể tạo ra một website bán hàng online của riêng mình, với các tính năng cơ bản như: Quản lý sản phẩm, Đặt hàng, thanh toán, Quản lý đơn hàng, Quản lý tài khoản người dùng, v.v.",
   },
   other_projects: "https://github.com/duongnguyen321",
 };
