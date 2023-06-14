@@ -82,35 +82,23 @@ const skills = {
     "Relatively good research and search skills. Working thinking, good teamwork skills compared to age.",
 };
 const projects = {
-  stravel: {
-    name: "Stravel-react",
+  demo: {
+    name: "Demo Project",
     link: "https://stravel.vercel.app/",
-    time: "Project làm trong 3 tháng",
-    api: "https://github.com/duongnguyen321/apistravel",
-    code: "https://github.com/duongnguyen321/stravel",
-    more: "Website sử dụng React, React-router-dom, EmailJS, ChatBot, Auth0, Restful API... - Project đầu tiên",
+    time: "Project làm trong x tháng",
+    api: "https://github.com/duongnguyen321/",
+    code: "https://github.com/duongnguyen321/",
+    more: "Website sử dụng ... - Project đầu tiên",
   },
-  api_hua: {
-    name: "API Huawei Shop",
-    link: "https://api-hua.herokuapp.com/",
-    time: "Project làm trong 5 ngày",
-    code: "https://github.com/duongnguyen321/api-hua",
-    more: "Website sử dụng Javascript, Node JS để tạo một server api cho dự án Huawei Shop",
+  demo2: {
+    name: "Demo Project",
+    link: "https://stravelhtml.vercel.app/",
+    time: "Project làm trong x tháng",
+    api: "https://github.com/duongnguyen321/",
+    code: "https://github.com/duongnguyen321/",
+    more: "Website sử dụng ...",
   },
-  telebot: {
-    name: "Telegram Bot",
-    link: "https://t.me/messimgbot",
-    time: "Project làm trong 1 tuần",
-    code: "https://github.com/duongnguyen321/allai-telegram",
-    more: "Bot Telegram sử dụng Nodejs, API của Openai và Api của AllAi. Để tạo ra một Chatbot, ImageBot trong Telegram",
-  },
-  hua_shop: {
-    name: "Client Huawei Shop",
-    link: "https://huashop.vercel.app/",
-    time: "Project đang phát triển.",
-    code: "https://github.com/duongnguyen321/hua-shop",
-    more: "Đây là một dự án web bán hàng đơn giản, được phát triển bằng ReactJS. Mục đích của dự án này là giúp bạn có thể tạo ra một website bán hàng online của riêng mình, với các tính năng cơ bản như: Quản lý sản phẩm, Đặt hàng, thanh toán, Quản lý đơn hàng, Quản lý tài khoản người dùng, v.v.",
-  },
+
   other_projects: "https://github.com/duongnguyen321",
 };
 const hobby = {
