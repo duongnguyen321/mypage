@@ -36,7 +36,6 @@ header .img_ava {
 }
 header .img_ava:hover {
   filter: grayscale(0);
-  /* transition: all linear 0.5s; */
 }
 header .rectangle_1 {
   position: absolute;
