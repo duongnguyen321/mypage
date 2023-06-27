@@ -29,12 +29,14 @@ header .img_ava {
   height: 632px;
   left: 610px;
   top: 328px;
-  background-image: url(../assets/images/duonginblack.jpg);
+  background-image: url(../assets/images/duong.jpg);
+  filter: grayscale(1);
   border-radius: 10px;
   z-index: 1;
 }
 header .img_ava:hover {
-  background-image: url(../assets/images/duong.jpg);
+  filter: grayscale(0);
+  /* transition: all linear 0.5s; */
 }
 header .rectangle_1 {
   position: absolute;
