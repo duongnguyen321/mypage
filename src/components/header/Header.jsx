@@ -10,9 +10,9 @@ function Header() {
       {(context) => {
         return (
           <header>
-            <Mainchat/>
-            <Emailjs/>
-            <Login/>
+            <Mainchat />
+            <Emailjs />
+            <Login />
             <div className="information">
               <h1 className="firt_name title_h1">{context.names.first}</h1>
               <span className="last_name name">{context.names.last}</span>
@@ -26,8 +26,9 @@ function Header() {
                 {context.contents.second_content}
               </p>
             </div>
+            <div className="img_ava"></div>
             <i className="bi bi-plus star star_1" />
-            <div className="img_ava" />
+
             <i className="bi bi-plus star star_2" />
             <Gear
               className="gear"
